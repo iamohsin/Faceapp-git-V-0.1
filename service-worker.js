@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/iamohsin/Faceapp-git-V-0.1/precache-manifest.b803beca3afc777e039c596760c42f4d.js"
+  "/iamohsin/Faceapp-git-V-0.1/precache-manifest.18a47e54be0da96d4500b13188e282ec.js"
 );
 
 self.addEventListener('message', (event) => {

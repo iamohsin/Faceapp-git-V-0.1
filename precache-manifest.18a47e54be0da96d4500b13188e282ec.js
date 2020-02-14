@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef9fd1559a4e9bc4e302e9124a3c4c24",
+    "revision": "b83b833c2daf637ceadb91b8754b5d51",
     "url": "/iamohsin/Faceapp-git-V-0.1/index.html"
   },
   {
