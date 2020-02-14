@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/iamohsin/Faceapp-git-V-0.1/static/css/main.5e41a273.chunk.css",
-    "main.js": "/iamohsin/Faceapp-git-V-0.1/static/js/main.65e306bf.chunk.js",
-    "main.js.map": "/iamohsin/Faceapp-git-V-0.1/static/js/main.65e306bf.chunk.js.map",
-    "runtime-main.js": "/iamohsin/Faceapp-git-V-0.1/static/js/runtime-main.3f21a27a.js",
-    "runtime-main.js.map": "/iamohsin/Faceapp-git-V-0.1/static/js/runtime-main.3f21a27a.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/iamohsin/Faceapp-git-V-0.1/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.34cf422d.chunk.js": "/iamohsin/Faceapp-git-V-0.1/static/js/2.34cf422d.chunk.js",
-    "static/js/2.34cf422d.chunk.js.map": "/iamohsin/Faceapp-git-V-0.1/static/js/2.34cf422d.chunk.js.map",
-    "index.html": "/iamohsin/Faceapp-git-V-0.1/index.html",
-    "precache-manifest.18a47e54be0da96d4500b13188e282ec.js": "/iamohsin/Faceapp-git-V-0.1/precache-manifest.18a47e54be0da96d4500b13188e282ec.js",
-    "service-worker.js": "/iamohsin/Faceapp-git-V-0.1/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/iamohsin/Faceapp-git-V-0.1/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.5e41a273.chunk.css.map": "/iamohsin/Faceapp-git-V-0.1/static/css/main.5e41a273.chunk.css.map",
-    "static/js/2.34cf422d.chunk.js.LICENSE": "/iamohsin/Faceapp-git-V-0.1/static/js/2.34cf422d.chunk.js.LICENSE"
+    "main.css": "/iamohsin/Faceapp-git-V-0.1.git/static/css/main.5e41a273.chunk.css",
+    "main.js": "/iamohsin/Faceapp-git-V-0.1.git/static/js/main.d7b705ef.chunk.js",
+    "main.js.map": "/iamohsin/Faceapp-git-V-0.1.git/static/js/main.d7b705ef.chunk.js.map",
+    "runtime-main.js": "/iamohsin/Faceapp-git-V-0.1.git/static/js/runtime-main.f14d6f39.js",
+    "runtime-main.js.map": "/iamohsin/Faceapp-git-V-0.1.git/static/js/runtime-main.f14d6f39.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/iamohsin/Faceapp-git-V-0.1.git/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.f4b3cd8c.chunk.js": "/iamohsin/Faceapp-git-V-0.1.git/static/js/2.f4b3cd8c.chunk.js",
+    "static/js/2.f4b3cd8c.chunk.js.map": "/iamohsin/Faceapp-git-V-0.1.git/static/js/2.f4b3cd8c.chunk.js.map",
+    "index.html": "/iamohsin/Faceapp-git-V-0.1.git/index.html",
+    "precache-manifest.9a14fec9abd703ddac2c98fbc49b9de0.js": "/iamohsin/Faceapp-git-V-0.1.git/precache-manifest.9a14fec9abd703ddac2c98fbc49b9de0.js",
+    "service-worker.js": "/iamohsin/Faceapp-git-V-0.1.git/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/iamohsin/Faceapp-git-V-0.1.git/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.5e41a273.chunk.css.map": "/iamohsin/Faceapp-git-V-0.1.git/static/css/main.5e41a273.chunk.css.map",
+    "static/js/2.f4b3cd8c.chunk.js.LICENSE": "/iamohsin/Faceapp-git-V-0.1.git/static/js/2.f4b3cd8c.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f21a27a.js",
+    "static/js/runtime-main.f14d6f39.js",
     "static/css/2.eb45ad44.chunk.css",
-    "static/js/2.34cf422d.chunk.js",
+    "static/js/2.f4b3cd8c.chunk.js",
     "static/css/main.5e41a273.chunk.css",
-    "static/js/main.65e306bf.chunk.js"
+    "static/js/main.d7b705ef.chunk.js"
   ]
 }
